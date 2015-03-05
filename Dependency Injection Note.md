@@ -83,10 +83,15 @@ class ColonMovieFinder...
 <beans>
     <bean id="MovieLister" class="spring.MovieLister">
         <property name="finder">
-            <ref local="MovieFinder"/>
+            <ref local="colonMovieFinder"/>
         </property>
     </bean>
-    <bean id="MovieFinder" class="spring.ColonMovieFinder">
+    <bean id="colonMovieFinder" class="spring.ColonMovieFinder">
+        <property name="filename">
+            <value>movies1.txt</value>
+        </property>
+    </bean>
+    <bean id="semicolonMovieFinder" class="spring.SemicolonMovieFinder">
         <property name="filename">
             <value>movies1.txt</value>
         </property>
