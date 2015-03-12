@@ -2,7 +2,7 @@
 
 ###Request生命周期
 
-* Request会由DispatcherServlet前端控制器（单例）分配给* Controller控制器（由HandlerMapping处理器通过请求携带的URL信息来确定映射）。
+* Request会由DispatcherServlet前端控制器（单例）分配给 Controller控制器（由HandlerMapping处理器通过请求携带的URL信息来确定映射）。
 
 * Controller会卸下Request的负载，处理信息。在Controller完成逻辑处理后，会产生需要返回用户并在浏览器上显示的信息，即Model模型。最后Controller将Model打包，并标示出用于渲染输出的View名称，Controller接下来将Model和View名称发送回DispatcherServlet。
 
@@ -88,7 +88,7 @@ http://localhost:8080/Spitter/spitters?new
 
 * 在上面所指定的edit.jsp中，声明并使用Spring的表单绑定库：
 
-~~~jsp
+~~~java
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
 ...
 <form:form method="POST" modelAttribute="spitter" enctype="multipart/form-data">
@@ -116,3 +116,56 @@ return "spitters/view";
 }
 ~~~
 路径中{username}部分实际上是占位符，它对应使用了@PathVariable注解的username方法参数。请求路径中的该位置的值将作为username的值传递进去。
+
+* JSP经常通过表单来发送POST，方法如下：
+
+~~~java
+<form>
+	title:<input type="text" name="title"/>
+	content:<input type="text" name="content"/>
+	<input type="submit" value="Submit"/>
+</form>
+~~~
+
+* Spring MVC 获取POST参数的方法有三种：
+    - 通过建立一个和表达参数相同的Bean，用这个Bean来接收表单参数：
+
+    ~~~java
+    public class Post{
+		private String id;
+		private String title;
+		private String content;
+		...getter and setter
+	}
+    ~~~
+    在Controller中，使用`@ModelAttribute`注解来获得POST请求的表单中的参数：
+    
+    ~~~java
+    @RequestMapping(value="/addPost", method = RequestMethod.POST)
+      public String processSubmit(@ModelAttribute("post") Post posts) {
+      	...
+        return "newPost";
+      }
+    ~~~
+
+   - 使用`@RequestParam`注解来获得参数：
+
+    ~~~java
+    @RequestMapping(value="/addPost", method = RequestMethod.POST)
+      public String processSubmit(@RequestParam("title") String title, @RequestParam("content") String content) {          
+      	...
+      	return "newPost";
+      }
+    ~~~
+
+   - 使用_HttpServletRequest_ 来接收：
+
+   ~~~java
+   @RequestMapping(value="/addPost")
+    public String processSubmit(HttpServletRequest request) {
+        String title = request.getParameter("title");
+        String content = request.getParameter("content");
+        ...
+        return "newPost";
+    }
+   ~~~
