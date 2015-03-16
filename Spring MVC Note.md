@@ -127,8 +127,9 @@ return "spitters/view";
 </form>
 ~~~
 
-* Spring MVC 获取POST参数的方法有三种：
-    - 通过建立一个和表达参数相同的Bean，用这个Bean来接收表单参数：
+* Spring MVC 获取POST参数的方法有四种：
+
+    - 通过建立一个和表达参数相同的Bean，用这个Bean（这个Bean必须有无参数的构造函数）来接收表单参数：
 
     ~~~java
     public class Post{
@@ -143,6 +144,16 @@ return "spitters/view";
     ~~~java
     @RequestMapping(value="/addPost", method = RequestMethod.POST)
       public String processSubmit(@ModelAttribute("post") Post posts) {
+      	...
+        return "newPost";
+      }
+    ~~~
+    
+     - 直接通过将表单参数放在Controller的形参中获得：
+    
+    ~~~java
+    @RequestMapping(value="/addPost", method = RequestMethod.POST)
+      public String processSubmit(String id, String title, String content) {
       	...
         return "newPost";
       }
