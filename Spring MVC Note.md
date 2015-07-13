@@ -180,3 +180,5 @@ return "spitters/view";
         return "newPost";
     }
    ~~~
+
+在提交的表单Form的参数action里面指定位置来实现POST之后跳转的地址
