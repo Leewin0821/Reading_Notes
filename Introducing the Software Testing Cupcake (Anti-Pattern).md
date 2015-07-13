@@ -4,11 +4,11 @@ I believe that the Testing Pyramid is one of the best analogies to help a team d
 
 However, I often see organizations fall into some traps when attempting to implement a testing strategy. As Alister Scott pointed out, one of the common traps is the ice-cream cone anti-pattern. This happens when there is not enough low-level testing (unit, integration and component), too many tests that run through the Graphical User Interface (GUI) and an even larger number of manual tests.
 
-然而我经常会看到有的团队在尝试实践测试策略时，掉进陷阱里。正如Alister Scott指出的，一个常见的陷阱就是冰淇淋锥体反模式。它常常发生在没有足够底层测试（单元测试，集成测试和构件测试），太多测试通过GUI（图像用户界面）来运行，以及甚至有较多手动测试的时候。
+然而我经常会看到有的团队在尝试实践测试策略时，掉进陷阱里。正如Alister Scott指出的，一个常见的陷阱就是冰淇淋锥体反模式。它常常发生在没有足够底层测试（单元测试，集成测试和组件测试），太多测试通过GUI（图像用户界面）来运行，以及甚至有较多手动测试的时候。
 
 This anti-pattern in on the decline though. Test automation is now prevalent in the software development community. Practices like Test Driven Development (TDD) and Behavior Driven Development (BDD) are widespread and applied almost unquestionably. It has been a while since I’ve seen teams that do not have considerable tests at the lower levels (unit, integration, component).
 
-一方面，虽然这种反模式现象在减少，软件开发社区也正在普及测试自动化，并且可以看到诸如TDD（测试驱动开发）和BDD（行为驱动开发）这些实践毫无疑问已经推广和应用起来了。我已经有一段时间没看到团队关心过底层测试（单元测试，集成测试，构件测试）了。
+一方面，虽然这种反模式现象在减少，软件开发社区也正在普及测试自动化，并且可以看到诸如TDD（测试驱动开发）和BDD（行为驱动开发）这些实践毫无疑问已经推广和应用起来了。我已经有一段时间没看到团队关心过底层测试（单元测试，集成测试，组件测试）了。
 
 On the other hand, I have seen organizations fall into another very dangerous trap. Here are some common characteristics that lead to this anti-pattern:
 
@@ -19,7 +19,7 @@ On the other hand, I have seen organizations fall into another very dangerous tr
 * Writing tests usually spans 3 teams:
 * 通常由如下三类团队来写不同的测试：
     * Developers write unit, integration and component tests.
-    * 开发人员写单元测试，集成测试和构件测试。
+    * 开发人员写单元测试，集成测试和组件测试。
     * Another team writes black box tests through the GUI.
     * 另外一个团队通过GUI写黑盒测试。
     * Manual testers have a set of scenarios that they execute manually.
