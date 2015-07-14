@@ -21,7 +21,7 @@ On the other hand, I have seen organizations fall into another very dangerous tr
     * Developers write unit, integration and component tests.
     * 开发人员写单元测试，集成测试和组件测试。
     * Another team writes black box tests through the GUI.
-    * 另外一个团队通过黑盒来测试界面。
+    * 另外一个团队通过界面来做黑盒测试。
     * Manual testers have a set of scenarios that they execute manually.
     * 手动测试员进行一系列手动测试来测试功能。
 * Generally, these teams work in isolation and do not collaborate much.
@@ -53,7 +53,7 @@ Here are some tips to avoid the Cupcake, and possibly “tweak” it back to the
     * Cross-role Pairing: Support cross role pairing. For example, a developer and a tester pairing at the end of a story to figure out where to automate the scenarios.
     * 跨角色结对：支持跨角色结对。比如，在一个Story快完结时，一个开发者可以和一个测试员结对决定在哪儿执行自动测试。
     * Story Kickoff: Practices like The Three Amigos, or what some people call story kickoff, helps get everyone on the same page
-    * Story Kickoff：这里有很多方法可以采用，比如三驾马车，或者有些人称为的story kickoff，目的都是为了帮助团队分享对需求的理解，减少沟通隔阂。
+    * Story Kickoff：这里有很多方法可以采用，比如三驾马车（The Three Amigos），或者有些人称为的story kickoff，目的都是为了帮助团队分享对需求的理解，减少沟通隔阂。
 * Test at the Lowest Level: Whenever possible, test a particular feature at the level closest to the code, using a shallow depth of test.
 * 从最底层开始测试：在条件允许的情况下，从最靠近代码的地方开始测试一个功能，降低测试的深度。
 * Merge Teams when possible: Sometimes you don't need different teams, what you need is different people playing different roles. For example, a developer can be the GUI tester for a story that (s)he didn't develop.
