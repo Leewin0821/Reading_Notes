@@ -18,38 +18,60 @@
 
 我们的应用有着很高的评价，还凭借优秀的用户体验获过奖。因此就算我们有时间上的限制，我还是不想冒着毁掉用户体验的风险而采用第三方API。
 
-[When comparing Android and Apple, we had found that Android had solved the concerns we had with Apple, but the actual scanning mechanism on the button was better on Apple. Ideally, for the optimum experience you need to combine both solutions.]​
+> [When comparing Android and Apple, we had found that Android had solved the concerns we had with Apple, but the actual scanning mechanism on the button was better on Apple. Ideally, for the optimum experience you need to combine both solutions.]​
 
 [当拿安卓的指纹登录方案和苹果作比较时，我们发现安卓上应用的方案解决了我们对苹果所抱有的顾虑，但是在指纹扫描机制方面还是苹果占优。所以为了最佳的体验，你最好还是考虑结合这两种解决方案。]
 
 ##Your Time Starts Now!
 
-We release an updated version of the bank App every 6-8 weeks. With each release we not only add new features - fingerprint login or eStatements, for example; we also needed to ensure that it created the best experience for the user, met stakeholder requirements and was within the budget. Therefore, user testing couldn’t be a drawn out process which lasted several days. I had one day to user-test the fingerprint login.
+**下面进入正题！**
+
+> We release an updated version of the bank App every 6-8 weeks. With each release we not only add new features - fingerprint login or eStatements, for example; we also needed to ensure that it created the best experience for the user, met stakeholder requirements and was within the budget. Therefore, user testing couldn’t be a drawn out process which lasted several days. I had one day to user-test the fingerprint login.
+
+我们每6到8周就会对我们的应用进行一次版本更新。每次更新不仅仅是增加新功能，比如指纹登录和eStatements功能，我们还需要保证最佳的用户体验，满足业务的需求，同时还得控制成本。所以，我们没法抽出几天来单独做用户测试，我只有一天来模拟用户测试指纹登录功能。
 
 ##Who to Test?
 
-Although the main target audience of the App is the baby boomer generation, the app does have a lot of users in the lower age brackets.Taking this into consideration, we conducted our user testing across different age groups, some of whom were already TouchID users. Having a good mix allowed us to understand if problems were consistent across the board, which would, in turn, allow us to create a better experience for all users. 
+**谁是测试对象？**
+
+> Although the main target audience of the App is the baby boomer generation, the app does have a lot of users in the lower age brackets.Taking this into consideration, we conducted our user testing across different age groups, some of whom were already TouchID users. Having a good mix allowed us to understand if problems were consistent across the board, which would, in turn, allow us to create a better experience for all users. 
+
+虽然我们应用的主要用户是婴儿潮一代，但也有众多年轻的拥趸。考虑到这一点，我们的用户测试横跨多个年龄段，包括一些早已熟悉TouchID的用户。这样做的好处是，能让我们了解问题是不是出现在所有条件之下，换而言之，这有助于我们为所有用户创造更好的体验。
 
 ##Morning session
 
-Luckily, for the user testing, we already had a production build of the App. This allowed the user to experience the entire process of registering and scanning a fingerprint. We started by asking them to register their fingerprint on the iPhone (the App would allow users to set-up a fingerprint login only if their fingerprint was already registered on the device). Taking them through this process allowed us to create an ‘as real to life’ experience as possible, under the conditions. They were then asked to login to the App and complete the flow to setup the fingerprint login for mobile banking. Users passed this process without any concerns.
+**早会时分**
 
-Apple TouchID example 
+> Luckily, for the user testing, we already had a production build of the App. This allowed the user to experience the entire process of registering and scanning a fingerprint. We started by asking them to register their fingerprint on the iPhone (the App would allow users to set-up a fingerprint login only if their fingerprint was already registered on the device). Taking them through this process allowed us to create an ‘as real to life’ experience as possible, under the conditions. They were then asked to login to the App and complete the flow to setup the fingerprint login for mobile banking. Users passed this process without any concerns.
 
-It was in the next process that we asked users to complete which validated our concerns. After registering their fingerprint on the device and completing the flow inside the App, they had to login with their fingerprint. We asked them to log out of the App and log back in using their fingerprint. Once they tapped the ‘login with fingerprint’ button, the standard Apple TouchID modal appeared. At this point, the user is meant to scan their fingerprint. Instead, we saw the user instantly getting confused and quickly frustrated as they tried various ways to get it to work.
+幸运地是，我们已经有一个产品版本的应用，它能允许用户体验整个注册流程和扫描指纹。我们从请求用户使用他们指纹注册开始（用户只有事先在设备上绑定了他们的指纹，才能使用我们的应用所提供的指纹登录功能），带领用户在尽可能贴近真实生活的条件下体验整个注册流程。之后我们请求用户登录应用，独立完成指纹登录设置的各个步骤。随后用户毫不费力地就完成了这一操作。
 
-Problems with Apple TouchID
+![Apple TouchID example](https://www.thoughtworks.com/sites/default/files/styles/retina_ready/public/assets/AppleTouchID.jpg?itok=pxsN2PYP)
+
+> It was in the next process that we asked users to complete which validated our concerns. After registering their fingerprint on the device and completing the flow inside the App, they had to login with their fingerprint. We asked them to log out of the App and log back in using their fingerprint. Once they tapped the ‘login with fingerprint’ button, the standard Apple TouchID modal appeared. At this point, the user is meant to scan their fingerprint. Instead, we saw the user instantly getting confused and quickly frustrated as they tried various ways to get it to work.
+
+我们请求用户完成的下一个步骤才坐实了我们的担忧。那就是在用户绑定指纹，完成注册之后，他们还需使用指纹重新登录应用。此时我们请求用户退出账户，再使用指纹重新登录。每当用户按下了'指纹登录'的按钮，标准的苹果TouchID模态框就出现了。按理说此时用户应该扫描他们的指纹，但是我们却发现用户直接懵了，在使用多种方式尝试登录之后就泄气了。
+
+![Problems with Apple TouchID](https://www.thoughtworks.com/sites/default/files/styles/retina_ready/public/assets/TouchIDforTWBankExample_0.jpg?itok=u9FtTnJj)
  
 
 ##What was so confusing?
 
-I had concerns that the restrictions and style of the modal would confuse users. On observing users and chatting with them, these concerns were proven.  
+**问题出在哪儿？**
 
-Once the modal was activated, people saw what they thought was an error message, even though they had been shown a similar modal when unlocking their phone. In this new context, they panicked and pressed ‘cancel’, which meant that they had to start the login process again.
+> I had concerns that the restrictions and style of the modal would confuse users. On observing users and chatting with them, these concerns were proven.  
 
-From regular user testing that we do for every release of the mobile App, we’ve noticed that people, particularly a younger audience, simply don’t read lengthy text. They dismiss information in the screen or inside a modal, and simply click the ‘ok’ button during onboarding flows, rather than reading what they are doing. After several failed attempts of trying to login with their fingerprint, they finally read what little copy was available inside the modal, but this just confused them more. Most gave up and logged in with their pin.
+我一直都很担忧苹果对指纹验证的限制，以及TouchID模态框的风格会误导用户，在观察用户并和他们交流之后，这种担忧得到了证实。
 
-Issues with Apple TouchID
+> Once the modal was activated, people saw what they thought was an error message, even though they had been shown a similar modal when unlocking their phone. In this new context, they panicked and pressed ‘cancel’, which meant that they had to start the login process again.
+
+一旦TouchID模态框被激活，人们会认为那是一个错误提示，即使他们在解锁手机时曾见过相似的方框。在这种情况下，他们会抓狂，然后按下‘取消’，也就说他们不得不重新开始登录的流程。
+
+> From regular user testing that we do for every release of the mobile App, we’ve noticed that people, particularly a younger audience, simply don’t read lengthy text. They dismiss information in the screen or inside a modal, and simply click the ‘ok’ button during onboarding flows, rather than reading what they are doing. After several failed attempts of trying to login with their fingerprint, they finally read what little copy was available inside the modal, but this just confused them more. Most gave up and logged in with their pin.
+
+从我们每次发布都会做的定期用户测试里，我们发现人们，尤其是年轻人，根本不会阅读很长的文字。他们直接关掉屏幕或者应用里的提示信息，甚至在注册时看都没看他们在做什么就直接点‘确认’按钮。在多次错误的尝试使用指纹登录之后，他们终于注意到了模态框内那小小的文字。然而这只不过让他们更疑惑而已，大多数人直接放弃，改用密码登录了。
+
+![Issues with Apple TouchID](https://www.thoughtworks.com/sites/default/files/styles/retina_ready/public/assets/Issues_with_Apple_TouchID_0.jpg?itok=mM4MvwVR)
 
 * Everything about the modal design looks like an error message
 * The icon is red. Red represents danger or error in a majority of countries
