@@ -114,15 +114,15 @@
 
 > **Prototype A:** We gave the user a set of written instructions. This would be the quickest to build, but knowing our users, we weren’t convinced this was the best solution.
 
-原型A：我们给用户一些文字说明。这能很快实现，然而考虑到我们的用户，我们不敢说这就是最佳方案。
+原型A：给用户一些文字提示。这是能快速实现的方案，然而考虑到用户习惯，我们不敢说这就是最佳方案。
 
 > **Prototype B:** We used a visual graphic with very short text.
 
-原型B：我们用配图加很短的文字。
+原型B：用配图加很短的文字。
 
 ## Afternoon Testing Session:
 
-**在下午的测试之后**
+**午后测试**
 
 We went through the same process of registering the fingerprint and setting it up within the App on the device. We then moved to the paper prototype flow to test our new versions. We conducted these tests with a new set of users. We also managed to ask some of the users from the morning session which of the new prototypes they preferred.
 
