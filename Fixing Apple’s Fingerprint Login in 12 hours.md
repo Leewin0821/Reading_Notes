@@ -73,6 +73,7 @@
 
 ![Issues with Apple TouchID](https://www.thoughtworks.com/sites/default/files/styles/retina_ready/public/assets/Issues_with_Apple_TouchID_0.jpg?itok=mM4MvwVR)
 
+> 
 * Everything about the modal design looks like an error message
 * The icon is red. Red represents danger or error in a majority of countries
 * The hierarchy of the text is incorrect. The name of the App and the ‘cancel’ button are more prominent than the call to action or localised reason as Apple refers to it .
@@ -81,11 +82,25 @@
 * The number of characters for the localised reason is also restricted, resulting in the instructions being very vague and unhelpful for the user.
 * The modal activates a dark screen, which prevents us from adding any useful information or directional arrows that say ‘scan here’.
 
-Throughout the testing process, only one user instantly understood what was required. On further questioning, she revealed that she had used the same functionality with another bank. She said that she was initially frustrated, but eventually understood how it worked.
+* TouchID模态框的各种设计都让它看起来像一个错误提示信息
+* 指纹图标是红色的，而红色在大多数国家里都代表危险或者错误
+* 文字的层级结构不对。在苹果的要求下，应用名和‘取消’按键显得远比操作说明更为显眼。
+* 以下是苹果的霸王限制：
+    * 苹果只允许第三方修改操作说明，这使得应用名看起来更显眼
+    * 操作说明的字数也被限制了，导致说明文字含糊不清，对用户毫无裨益。
+    * 模态框的出现伴随着暗色的背景，让我们没法添加有用信息或是画一个写着“扫描这里呀”的箭头指向Home键。
+
+> Throughout the testing process, only one user instantly understood what was required. On further questioning, she revealed that she had used the same functionality with another bank. She said that she was initially frustrated, but eventually understood how it worked.
+
+在整场测试当中，只有一个用户流畅地完成了登录操作。在后来的调查问卷里，她回应说那是因为她曾在另一个银行的应用里使用过相同的功能。同时她也表示在其实最开始她也搞不懂，不过好在最后还是明白怎么操作了。
 
 ## Lunchtime:
 
+**午餐时间**
+
 After we’d finished the morning session of testing, we decided we had enough information to confirm our concerns, even though we’d only tested a small number of users. To fully maximise the time we had, we felt it was best to spend the testing session in the afternoon trying alternative solutions.
+
+
 
 Adding a simple set of text instructions above the login button would be very quick to implement; however, we knew that our users seldom read text that was more than a few words long. This made it a less than ideal solution. Adding a simple arrow below the modal to say ‘scan your finger here’ would have been more intuitive, but this was prevented by the Apple API.
 
