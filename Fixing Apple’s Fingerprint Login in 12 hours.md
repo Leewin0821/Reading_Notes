@@ -98,23 +98,35 @@
 
 **午餐时间**
 
-After we’d finished the morning session of testing, we decided we had enough information to confirm our concerns, even though we’d only tested a small number of users. To fully maximise the time we had, we felt it was best to spend the testing session in the afternoon trying alternative solutions.
+> After we’d finished the morning session of testing, we decided we had enough information to confirm our concerns, even though we’d only tested a small number of users. To fully maximise the time we had, we felt it was best to spend the testing session in the afternoon trying alternative solutions.
 
+在完成上午的测试之后，即使样本容量不大，但我们已然获得足够证据来证实我们的担忧。为了最高效地利用时间，我们决定在下午的测试里试验另一种方案。
 
+> Adding a simple set of text instructions above the login button would be very quick to implement; however, we knew that our users seldom read text that was more than a few words long. This made it a less than ideal solution. Adding a simple arrow below the modal to say ‘scan your finger here’ would have been more intuitive, but this was prevented by the Apple API.
 
-Adding a simple set of text instructions above the login button would be very quick to implement; however, we knew that our users seldom read text that was more than a few words long. This made it a less than ideal solution. Adding a simple arrow below the modal to say ‘scan your finger here’ would have been more intuitive, but this was prevented by the Apple API.
+在登录按钮之上添加一段简单的文字说明是能非常快就实现的方案，然而我们也清楚用户几乎不会去阅读稍微长点的文字；在模态框之下放置一个简单的箭头并配上文字“于此扫描你的指纹”会更符合直觉，但是苹果的API让我们没法这么做。
 
-I sketched two paper prototypes to test:
+> I sketched two paper prototypes to test:
 
-Paper prototypes to fix the Apple TouchID problem
+我画了两个原型草图来进行测试：
 
-**Prototype A:** We gave the user a set of written instructions. This would be the quickest to build, but knowing our users, we weren’t convinced this was the best solution.
+![Paper prototypes to fix the Apple TouchID problem](https://www.thoughtworks.com/sites/default/files/styles/retina_ready/public/assets/finalpaperprototype.gif?itok=0zzaYOle)
 
-**Prototype B:** We used a visual graphic with very short text.
+> **Prototype A:** We gave the user a set of written instructions. This would be the quickest to build, but knowing our users, we weren’t convinced this was the best solution.
+
+原型A：我们给用户一些文字说明。这能很快实现，然而考虑到我们的用户，我们不敢说这就是最佳方案。
+
+> **Prototype B:** We used a visual graphic with very short text.
+
+原型B：我们用配图加很短的文字。
 
 ## Afternoon Testing Session:
 
+**在下午的测试之后**
+
 We went through the same process of registering the fingerprint and setting it up within the App on the device. We then moved to the paper prototype flow to test our new versions. We conducted these tests with a new set of users. We also managed to ask some of the users from the morning session which of the new prototypes they preferred.
+
+
 
 ## The Results:
 
