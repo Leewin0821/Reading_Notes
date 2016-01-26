@@ -1,14 +1,26 @@
 An Innovation Day is typically a 24-hour event in which employees form small teams to try and solve a problem relevant to the business. The teams have to present their ideas back to the business with a strong business case and working prototype. Many companies have their version of an Innovation Day. 
 
+何谓创新日？这是一项持续24小时的活动，来自不同的小团队的员工们尝试并解决工作相关难题。参赛队伍需要通过翔实的商业案例和可行的原型来展示他们的创意。许多的公司都有各自的创新日。
+
 What can a company gain from an Innovation Day? How can you successfully take an idea, put it into production, and ensure it resonates with your customers?
+
+公司能从创新日中收获什么？你怎样才能成功孵化一个点子，使之产品化，并保证它能和你的顾客产生共鸣呢？
 
 ###Never underestimate your staff
 
+###永远不要低估你的员工
+
 Traditionally new ideas for products or digital direction are filtered from the top down within an organisation, unless you’re Google or run a flat management system.
+
+在传统的组织里，产品和数字化方向的创新都是从上到下层层审批的，除非你的公司叫Google或者你处在一个扁平化管理的公司。
 
 This traditional style of idea generation can sometimes stop the best ideas from coming to fruition. It’s the companies who are willing to take the leap and try something new that become the success stories of tomorrow.
 
+这种传统的孵化模式有时会阻碍最好的创意面世，而只有敢于尝试并且实践新东西的公司才能引领时代。
+
 Sometimes the best ideas are generated from those who work ‘in’ and not ‘on’ the business. These people see problems that customers and colleagues have on a daily basis that could be fixed from a simple bit of technology. Or identify a gap in the market based on something they would find useful as a consumer.
+
+
 
 Decision makers at the top can sometimes be paralysed by running the business, whereas staff are more open to think freely, as they don’t tend to think about the constraints of an idea. Mars Celebrations, for instance, was the brainchild of an ordinary Mars worker in the UK, and has since earned millions for the brand.
 
