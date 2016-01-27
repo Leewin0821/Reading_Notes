@@ -20,15 +20,21 @@ This traditional style of idea generation can sometimes stop the best ideas from
 
 Sometimes the best ideas are generated from those who work ‘in’ and not ‘on’ the business. These people see problems that customers and colleagues have on a daily basis that could be fixed from a simple bit of technology. Or identify a gap in the market based on something they would find useful as a consumer.
 
-
+有时候最好的创意来自于与业务间接相关的员工，而不是直接相关的人。这些人能发现用户和其他同事在日常使用中遇到的，能用简单技术就可以解决的问题，或是基于自身的经验指出产品功能与市场需求之间的间隙。
 
 Decision makers at the top can sometimes be paralysed by running the business, whereas staff are more open to think freely, as they don’t tend to think about the constraints of an idea. Mars Celebrations, for instance, was the brainchild of an ordinary Mars worker in the UK, and has since earned millions for the brand.
+
+顶层的决策者为了公司事务往往耗尽心力，但是一般员工却能脑洞大开，因为他们不会太在意一个点子的各种限制。举个例子，为英国Mars食品公司带来丰厚回报的Mars Celebrations，原本只是一名普通工人的点子。
 
 ![Seemingly old-fashioned brands are embracing innovation.](https://www.thoughtworks.com/sites/default/files/styles/retina_ready/public/assets/BestIdeas.png?itok=SUZAN1QW)
 
 ###Seemingly old-fashioned brands are embracing innovation
 
+###老品牌正在拥抱创新变化
+
 Banks are stereotypically seen as having an iron-fronted, non-innovative approach to business, and although many claim they put their customers first, many fail to practice what they preach. While this might be the stereotypical response, one of Australia’s banks have embraced user-centred design and team Innovation Days. They ditched the cumbersome waterfall approach in favour of a continuous-delivery methodology when it comes to their digital products.
+
+在固有的观念里，银行业是一个和创新毫不相干的行业。银行员工口口声声地说“以用户为重”，然而却常常做不到他们的承诺。“以用户为重”，即使这是一个典型的口号，仍然有一家澳大利亚的银行选择了拥抱用户中心设计和团队创新日。在开发线上产品时，他们摒弃了笨重的瀑布流，换成了持续交付的方式。
 
 ###An idea is born
 
