@@ -38,23 +38,43 @@ Banks are stereotypically seen as having an iron-fronted, non-innovative approac
 
 ###An idea is born
 
+###当有了一个点子
+
 An Innovation Day at a well-known bank, for example, inspired an idea to solve the issue of friends sharing the cost of bills. It would become a feature within the existing banking app and allow users to share group bills and send texts to their friends—telling how much they owe, their bank details, and providing them with a unique reference number that could later be used to track when a friend has paid them.
+
+让我们来举个例子：在一所著名的银行，某个创新日催生出了如何解决朋友之间分摊账单的方法。这很可能会成为现有银行应用的一个功能，允许用户共享账单，然后发送短信给用户的朋友，提示他们应该支付多少钱，目前他们的账户余额怎样，并且还能给用户提供一个唯一的编号，让用户能跟踪账单的偿还状况。
 
 The feature would target a younger audience who, from the research, share bills on a frequent basis. The new concept was seen as something that no other bank was offering and would allow the brand to target a new audience.
 
+根据研究，这项功能瞄准的是年轻一代的用户，他们有着很频繁的分摊账单的需求。这个想法发觉了某些别的银行没能提供的东西，并且能让公司锁定一批新的用户群体。
+
 ###Can’t justify 24 hours?
 
+###抽不出24小时空来？
+
 If you can’t justify taking 24 hours out of the ‘usual’ working period to run a Innovation Day, you could try an ‘innovation sprint’. Staff can post ideas or problems they want to solve up to a week before (the same as an Innovation Day). Individuals can then choose which idea they’d like to solve, and rather than building a working prototype, they could brainstorm the idea and develop a solution. The sprint would be limited to a normal 8-hour day.
+
+如果你没法从“平常”的工作中抽出24小时来运作一次创新日，你可以试试来一次“创新冲刺”。员工们可以提前一周把点子和他们想解决的问题贴在一面墙上（和创新日的做法一样）。然后大家可以选择他们想解决的问题，参与者进行头脑风暴，想出解决方案，而不是做一个可行的原型出来。这种冲刺被限制为一个工作日，即8个小时。
  
 Running Innovation Days, sprints, or even weekends, can not only help empower staff and help with team building, but can also create new initiatives for your brand.
 
+组织创新日，创新冲刺甚至创新周末的好处，不仅是能帮助员工提升实力，培养团队，还能为你的公司带来新的活力。
+
 ###Taking the idea to production
+
+###实践创意
 
 The concept was successfully pitched at an Investor Day, giving the team a small budget to explore the idea further. Once this phase was complete, it was handed to the mobile app team to build into the existing banking app.
 
+在一个投资者日里，这个分摊账单的方案被成功通过，提出方法的团队获得了一笔小的资助，这使得他们能够继续探索。当他们完成了探索，应用开发团队就立马接手来实现这个功能，将其添加到了现有的银行应用里面。
+
 Innovation Days were a new concept within the bank and - like with any new process - it was a case of trial, error, and improvement. The bill sharing concept was the first Innovation idea to go into production.
 
+对这家银行来说，创新日曾是一个新奇的想法，就像其他新的实践一样，这是一个关于试错和提升的实践。账单分摊的想法曾是第一个加入产品的创新点子。
+
 It became apparent early on that the new feature couldn’t simply be added within the existing app’s code base. Due to the short time the team had to work on the idea, there were a lot of areas left unanswered in terms of the user experience, functionality, and technology.
+
+将这个点子转变为新的功能还为时尚早，开发团队在开发功能的段时间内，仍然有许多问题亟待解决，比如用户体验设计，功能性设计和技术细节。
 
 ###Get it ‘out’, then get it ‘right’
 
