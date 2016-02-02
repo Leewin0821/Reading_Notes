@@ -66,7 +66,7 @@ Running Innovation Days, sprints, or even weekends, can not only help empower st
 
 The concept was successfully pitched at an Investor Day, giving the team a small budget to explore the idea further. Once this phase was complete, it was handed to the mobile app team to build into the existing banking app.
 
-在一个投资者日里，这个分摊账单的方案被成功通过，提出方法的团队获得了一笔小的资助，这使得他们能够继续探索。当他们完成了探索，应用开发团队就立马接手来实现这个功能，将其添加到了现有的银行应用里面。
+在一个投资者日里，这个分摊账单的方案被成功通过，提出方法的团队获得了一笔小的资助，这使得他们能够继续探索。当他们完成了探索，应用开发团队就立马接手来实现这个功能，将其添加到现有的银行应用里面。
 
 Innovation Days were a new concept within the bank and - like with any new process - it was a case of trial, error, and improvement. The bill sharing concept was the first Innovation idea to go into production.
 
@@ -74,13 +74,19 @@ Innovation Days were a new concept within the bank and - like with any new proce
 
 It became apparent early on that the new feature couldn’t simply be added within the existing app’s code base. Due to the short time the team had to work on the idea, there were a lot of areas left unanswered in terms of the user experience, functionality, and technology.
 
-将这个点子转变为新的功能还为时尚早，开发团队在开发功能的段时间内，仍然有许多问题亟待解决，比如用户体验设计，功能性设计和技术细节。
+将这个点子转变为新的功能还为时尚早，因为提出方案的团队并没有充足的时间去考虑，所以仍然有许多问题亟待解决，比如用户体验设计，功能性设计和技术细节。
 
 ###Get it ‘out’, then get it ‘right’
 
+###先做出，再做对
+
 Launching with an MVP version of your innovation is a great way to ensure it hits the market before your competitors launch something similar. Many brands feel they need to spend time refining until it’s perfect before they launch. Working with an Agile methodology and getting an MVP version out as fast as possible allows you to test your idea with real users, refine, improve, and implement. While you can refine and improve your MVP version, your competitors are having to start from scratch to try and catch up. By the time they have caught up, you will have market share, along with a more advanced product and more in-depth user knowledge.
 
+将创意包装成MVP然后快速上线，是领先竞争对手抢占市场的有效手段之一。很多公司认为他们应该不断地打磨产品，直到完美才能上线。相比之下，采用敏捷的开发方式，尽快推出MVP可以让你的点子尽早接触到真正的用户，接受反馈，不断进步。当你在不断完善你的MVP时，你的竞争对手才刚开始从头做起，追赶你的步伐。当他们终于赶上时，你已经靠着成熟的产品和深刻的用户知识占有相当的市场份额了。
+
 The bank’s bill sharing concept wasn’t initially going to have an MVP version. It was, however, going to receive a large marketing campaign; something the app had never received even when first launched. Although the app is always being refined to improve the user’s experience using the continuous delivery approach, launching a new feature with the backing of a large marketing campaign requires ensuring that the customer is centre of mind to avoid jeopardising user confidence and the brand’s reputation.
+
+上面提到的那家银行的分摊账单方案，在一开始的时候并没有做成MVP。
 
 It’s important not to make user-assumptions. This can not only risk wasting time building something users find confusing, but can also waste valuable time designing a user interface that doesn’t resonate with the user.
 
