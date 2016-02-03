@@ -86,34 +86,56 @@ Launching with an MVP version of your innovation is a great way to ensure it hit
 
 The bank’s bill sharing concept wasn’t initially going to have an MVP version. It was, however, going to receive a large marketing campaign; something the app had never received even when first launched. Although the app is always being refined to improve the user’s experience using the continuous delivery approach, launching a new feature with the backing of a large marketing campaign requires ensuring that the customer is centre of mind to avoid jeopardising user confidence and the brand’s reputation.
 
-上面提到的那家银行的分摊账单方案，在一开始的时候并没有做成MVP。
+上面提到的那家银行的分摊账单方案，在一开始的时候并没有被做成MVP，而是直接参与了一项大型的营销活动，这也是该银行的应用从未尝试过的。虽然该应用一直都通过持续交付方式来不断提高用户体验，但是上线一项承担着大型营销活动任务的新功能，格外需要保证以用户为中心，这样才不会降低用户好感，维护好公司的口碑。
 
 It’s important not to make user-assumptions. This can not only risk wasting time building something users find confusing, but can also waste valuable time designing a user interface that doesn’t resonate with the user.
+
+一定不要事先做用户假设，这会导致你浪费时间做出一些不会引起用户共鸣，反而会让他们觉得困扰的设计出来。
 
 ![Making user assumption wastes time. ](https://www.thoughtworks.com/sites/default/files/styles/retina_ready/public/assets/MakingUserAssumptions.gif?itok=pRg1JM_9)
  
 To avoid the risk of jeopardising the concept, the team, which consisted of ThoughtWorkers and bank staff, built a case for justifying a soft-launch of the product. This allowed the team time to get user feedback, incorporate learning, and launch with a more user-friendly feature.
 
+为了点子能顺利实现，由ThoughtWorker和银行员工组成的队伍做出了一个样品来软启动整个项目。这让团队有足够时间接收用户评价，消化学习，然后推出更贴合用户的功能。
+
 The product owner fully supported the decision to 'get it out, then get it right' approach. Having the product owner’s support speaks volumes for the great team relationship.
+
+银行的产品负责人完全赞同“先做出，再做对”的方案，有了负责人的支持，整个团队就有了高度的凝聚力。
 
 ###Making the idea better for the end user
 
+###将创意打磨得更适合终端用户
+
 Whatever new innovation you’re launching, whether it’s a new type of confectionery like Mars Celebrations or a new banking app feature, getting into the minds of your customers is key to its success. You may have the best technology, but if the design and experience of interacting with your idea does not resonate with your audience, you’ve failed.
+
+无论你准备实现什么新创意，也许它是像Mars Celebrations一样的新型甜点，或者是一个银行应用的新功能，洞悉你的用户的想法才是成功的关键。你可能掌握着最好的技术，但是如果创意的设计和交互体验引不起用户的共鸣，那你就已经失败了。
 
 ![](https://www.thoughtworks.com/sites/default/files/styles/retina_ready/public/assets/BestTechintheWorld.png?itok=qsxwiEJJ)
 
 With the bill sharing concept, we selected a group of users that met our target profile and conducted face-to-face user testing, which was invaluable to the project. This allowed us to confirm the following:
 
+我们选择了一些档案匹配核心用户的志愿者，组织了一次面对面的用户测试。这给团队带来了无比宝贵的价值，它帮助我们确认了以下事情：
+
 * The new flow we wanted to implement was the correct approach. Validating this before we started re-coding saved time and money.
+* 我们想实现的新流程才是正确的。在我们重新编码之前验证了的这一点，使我们节约了大量的时间和金钱。
 * The younger audience does not like to read detail! Finding this out helped us write the correct onboarding messaging and prompts.
+* 年轻的用户根本不喜欢长文说明！这一发现帮助我们写出了正确的引导消息和提示。
 * 50% of users paid attention to adding the reference number, as requested in the text message. Finding this out helped us avoid wasting any more time refining the messaging and thinking of alternate ways to improve it.
+* 有50%的用户会记得填入验证码，就像在短信里要求的那样。这点发现有助于我们避免浪费时间去重新设计短信内容和另寻他法来提升体验。
 * Removing what I believed to be unnecessary text to give a cleaner design, was proven to be something users preferred; they still understood the context.
+* 用户的选择证明了，就算移除不必要的信息，他们也能理解上下文。而且他们也偏爱简洁的设计。
 
 It’s essential for a brand to engage consumers and take them along for the journey. The younger audience likes to get involved and the users of our app are very vocal; embracing this not only improved our new feature, but also made our younger customers feel valued.
 
+对一个公司来说，组织用户进行一次用户测试非常有必要。年轻用户喜欢参与感，并且我们的用户也直言不讳。进行这样的测试不仅有助于改进我们的新功能，还能让我们的顾客感觉到被重视。
+
 Along with conducting face-to-face user testing for the ‘soft launch’, we also wanted users to give us feedback on the new feature. This would help us improve it in time for the official launch, which would coincide with the marketing campaign.
 
+为了软启动，除了组织面对面的用户测试，我们同时也希望获得用户对新功能的反馈。这将在正式上线之前帮助我们提高，同时还能为营销活动做好准备。
+
 A small message that wouldn’t intrude on the user's experience of the app was added. It simply read: “Hey, we’re building this new feature that we think you might like. It would be great if you can help us out, try it and give us some feedback.”
+
+在应用里，我们加上了一段不会破坏体验的小字：“你好，我们正在开发新功能，而且我们猜你应该会喜欢它的。如果你能试用这段应用，给我们一些反馈，帮助我们开发出来，那就真是太棒啦。”
 
 Unsure if we would gain useful (or any) feedback from our users, we felt it was important to try. Within a day of the ‘soft launch’ we started receiving great feedback. This enabled us to prioritise our ‘wish list’ of improvements allowing us to avoid wasting time implementing the wrong items, and ensured we gave our users what they wanted, rather than what we thought they wanted.
 
