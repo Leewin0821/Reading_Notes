@@ -139,46 +139,85 @@ A small message that wouldn’t intrude on the user's experience of the app was 
 
 Unsure if we would gain useful (or any) feedback from our users, we felt it was important to try. Within a day of the ‘soft launch’ we started receiving great feedback. This enabled us to prioritise our ‘wish list’ of improvements allowing us to avoid wasting time implementing the wrong items, and ensured we gave our users what they wanted, rather than what we thought they wanted.
 
+一开始我们并不确定是否能从用户那儿获得反馈，更别说有用的反馈了。然而出乎我们意料的是，在软启动不到一天的时间内，我们就收获了大量的反馈。这简直像是给我们列出了心愿清单，让我们能直接开发出用户需要的，而不是我们以为他们需要的，从而避免了浪费时间做无用功。
+
 ![Does your new product know its place within your brand's architecture](https://www.thoughtworks.com/sites/default/files/styles/retina_ready/public/assets/BrandArchitecture.gif?itok=dp2YGBae)
 
 ###Design can make all the difference to your new innovation
 
+###设计对创意无比重要
+
 When launching a new product, not only do you need to ensure it resonates with your customer, gives a great user experience, and technically works, but it must also ‘know its place’ within your brand architecture. Ask yourself the following:
 
+当推出一个新产品时，你除了需要保证它能引起用户的共鸣，提供优秀的用户体验和可靠的技术支持之外，还必须清楚知道它在你公司中的地位。试着自问一下：
+
 * If it’s a new feature within an existing product:
-* Does it still reflect the brand guidelines?
-* Are there ways you can still improve the design, without going away from guidelines, to ensure the customer gets a new experience but still recognises the brand?
+* 如果这是已有产品的新功能：
+  * Does it still reflect the brand guidelines?
+  * 那么它是否仍然遵循品牌的设计原则？
+  * Are there ways you can still improve the design, without going away from guidelines, to ensure the customer gets a new experience but still recognises the brand?
+  * 在不偏离设计原则的情况下，你是否能找到方法来提升设计，保证用户在“熟悉的感觉”中获得全新的体验？
 * If it’s a completely new standalone product, which doesn’t need to rely on the main brand name to support it:
-* Does it resonate with the target market and stand out from other possible competitors?
+* 如果这是一个单独的全新的产品，而且不需要公司品牌影响力来支撑：
+  * Does it resonate with the target market and stand out from other possible competitors?
+  * 在竞争市场上它是否足够吸引用户，竞争力远超其他对手？
 
 ###How did we achieve it?
 
+###我们怎么做到的？
+
 The bank we were working with targets the older generation, whereas the new feature was very much for the younger generation.
+
+我们为之服务的银行的主要客户是年长一代，然而这个新功能却基本是为年轻人开发的。
 
 The younger generation within the mobile world is very passionate and vocal about being an ‘Apple’ or ‘Android’ follower. Both platforms have very different user interface designs and interaction, yet the majority of native apps, particularly Bank Apps, tend to use an iOS style across both App platforms.
 
+年轻人对移动世界可是相当的热情，大声地宣布自己是“Apple”或“Android”的粉丝。这两个平台在用户界面和交互设计上有着很大的不同，然而大多数的原生应用却倾向于在两个应用平台上都使用iOS的风格，尤其是银行的应用。
+
 We wanted the new feature to give the user a true native app experience, along with still feeling like the same bank. We only had a few weeks to implement and test both UI designs, which required prioritising for the maximum effect. Both iOS and Android style icons were implemented, along with appropriate layouts meeting material design and iOS guidelines. We were also able to integrate some native interaction gesture animations.
+
+我们希望在“熟悉的银行，熟悉的感觉”的基础上，让新功能带给用户真正原生的体验。此时我们只有几周时间来开发和测试所有的UI设计，这就要求我们必须把最重要的部分优先安排起来。在完成iOS和Android风格的的图标绘制，设计好依循Material Design和iOS设计原则的排版之后，我们就能集成一些原生手势的交互动画了。
 
 ![Making teams work in a silo is a mistake ](https://www.thoughtworks.com/sites/default/files/styles/retina_ready/public/assets/Silosamistake.gif?itok=PrpiVXee)
 
 ###Why different departments should work as one
 
+###为什么不同的部门应该齐心合作
+
 If your new innovation is digital, such as an app, wearable, or piece of software, it’s important that all the teams involved - from creation to production to launch - all work together and are kept informed.
+
+如果你有一个数字创意，比如一个应用，穿戴式设计或是软件的功能，那你最好让从设计到运营的所有团队都参与进来，所有人都在一起工作，能够顺畅交流。
 
 Many companies keep digital, branding, and marketing teams apart, thinking neither understands the other, which causes complications. Marketing teams may be misinformed, or perhaps not understand the unique selling point; the digital teams might not be given the correct brand position for the product, or know correct deadlines.
 
+很多公司都把IT，业务和营销团队分开，认为他们没必要认识彼此，那样只会把问题搞复杂。营销团队可能会被误导，或是没能抓住独特的市场卖点；IT团队也可能会搞错产品的定位，或是开发错过最后期限。
+
 Having all the teams working together avoids ‘middle men’ obstructing the flow of information and leads to a much better outcome.
+
+所有团队在一起工作就能避免出现“中间人”阻塞信息的传播，还能产出好得多的结果。
 
 With the bank's new concept, we kept the marketing team informed with the improved features, latest UI designs, and insights from user testing, which we felt would help with their FAQ webpage. This strengthened their PR efforts. We were also kept up-to-date on the progress of the campaign concepts and media schedule. Having a direct relationship avoided ‘middle men’ passing messages and created one large team working towards one goal, rather than several teams heading in different directions trying to meet the same goal.
 
+在实现上文的账单分摊功能时，我们让营销团队时刻掌握改进的功能，最新的UI设计和用户测试带来的新发现，我们认为这些发现能帮助他们更好的设计FAQ页面。这无疑有助于他们的公关工作。营销团队也会向我们更新营销大赛进展和媒体通告。团队之间直接联系就避免了传话筒的出现，也把不同团队凝聚在一块儿向着同一个目标努力，而不是不同的团队为了达到同一个目标向着不同的方向使劲。
+
 ###What can we learn from this?
+
+###我们能从中学到什么？
 
 Listening to staff from all areas of the business can not only generate remarkable innovations to transform your business, but also makes staff feel more valued. If you employ a large number of Gen Ys, holding Innovation Days is a great way to encourage their personal growth.
 
+倾听来自不同职位的员工关于业务的见解，不仅会收获了不起的创意，还能让员工感觉被重视。如果你的员工里有很多年轻人，举办创新日将是一个帮助他们快速成长的好方式。
+
 > “58% of Gen Y want pathways to personal growth and want this closely tied to recognition initiatives.” - Huff, C, 2006
 
+> "58%的年轻人都渴望找到个人发展的道路，而且想将其打上深深的个人烙印。" - Huff, C, 2006
+
 To reduce possible production problems, ensure you get everyone who would be impacted involved from the beginning. This will not only help you better estimate the effort, but the wider team might have further ideas on how best to build the product.
+
+为了减少可能出现的产品问题，确保在项目一开始就让涉及到的所有人都参与进来。这样除了能帮你更好的预估工作量之外，更大的团队也会在怎样最好地开发设计产品上提出更独到的主意。
 
 ![Ensure your product resonates with your audience. ](https://www.thoughtworks.com/sites/default/files/styles/retina_ready/public/assets/ProductResonates.gif?itok=7MjRRKB4)
    
 Don’t be afraid to refine and test your new product throughout the build cycle; ensure your target audience is always centre of mind. Ensuring your product not only resonates with your audience visually but also functionally (solving a problem) is a sure-fire way to ensure its success. 
+
+不要害怕通过构筑循环来提升和测试你的新产品；保证你始终把核心用户放在首位。确保你的产品不仅看起来能让你的用户产生共鸣，而且使用起来，在解决用户痛点时也一样爽快。这些才是你的产品通往成功的康庄大道。
