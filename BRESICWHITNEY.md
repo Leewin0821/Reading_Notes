@@ -5,6 +5,12 @@ ___
  
  创新实验室帮助顾客更快找到梦中的家
  
+ > Video contect:
+ 
+ > "BresicWhitney is a Sydney ** real estate agency. And we are ** towards ** property services lifestyle group. We are see quite dramatic changes in real estate industry. We've got new **, we've got changes and behaviour from buyers and from sellers. As a result, we've had a lot of change, the role of the tranditional real estate agency. BresicWhitney's ambition is to bring some honour back into the industry, we are looking at building trust again with buyers. As a result, we are looking at how we can add value and contribute to people who trying to sell. We decided to ** with ThoughtWorks, and the decision was to run a time boxed innovation lab."
+ 
+ > "We here for a three week engagement and we delegated the first week unserstand the buyer behaviours. We did that through ** acquire"
+ 
 BresicWhitney is an Australian lifestyle property group founded in 2003. The company is now a multi-office brand connecting people and property within Sydney’s widespread inner-city basin.
 
 BresicWhitney是澳洲的顶尖房产中介公司，成立于2003年。目前这家公司拥有多处办公室，负责将顾客和悉尼广袤的内城区域的房产联结起来。
