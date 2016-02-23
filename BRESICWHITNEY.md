@@ -9,7 +9,15 @@ ___
  
  > "BresicWhitney is a Sydney ** real estate agency. And we are ** towards ** property services lifestyle group. We are see quite dramatic changes in real estate industry. We've got new **, we've got changes and behaviour from buyers and from sellers. As a result, we've had a lot of change, the role of the tranditional real estate agency. BresicWhitney's ambition is to bring some honour back into the industry, we are looking at building trust again with buyers. As a result, we are looking at how we can add value and contribute to people who trying to sell. We decided to ** with ThoughtWorks, and the decision was to run a time boxed innovation lab."
  
- > "We here for a three week engagement and we delegated the first week unserstand the buyer behaviours. We did that through ** acquire"
+ > "We here for a three week engagement and we dedicated the first week unserstand the buyer behaviours. We did that through contact enquiry, some face to face interviews open for expections and some for interviewees. We found buyers have two main pain points: one is price transparency around auctions, and second one is access to property reports. So we built an app in first eight days, and we were able to delivery guys reports and test their response. That's important, so we can refine and move on the process in that subsequence two weeks. By embedding ** we are able to build a major and learn far more quickly, so we can validate any product ideas before bring them to market."
+ 
+ > "Can you products already demonstrating tool of buyers are enjoying the process they buy much more. They are able to make faster decisions which is leading to quick sales. This is offering right benefit to us sellers. And we are also saying right inefficiency in ** in the transaction."
+ 
+ > "Really esay to use the app to just download the ** contract for full plan. So I don't have to email the agency and take weeks to do that. I can make a decision on a **". Whether or not, I'm gona persuade the property and provide the offer.
+ 
+ > "I think the biggest thing that I know the system beat inefficiency. I can just download straightway instead of waiting for us get back for the moment monday. I did a the transaction recently, the information was about the pretty much from the time your offer is made, back home download the information instantly, and it is closed in 24 hours."
+ 
+ > "Ah yeah you won't be able to work in real time. I mean that's the, that's what today all about, been able to make quick decision is very hard market. And with the information all in the hand, normally ** send us a email to you a few days later when your agency cantact you and says your interests about the contract ** but definitely not strata report and not valuable as that in real time. That's good"
  
 BresicWhitney is an Australian lifestyle property group founded in 2003. The company is now a multi-office brand connecting people and property within Sydney’s widespread inner-city basin.
 
