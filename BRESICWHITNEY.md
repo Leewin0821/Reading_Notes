@@ -7,29 +7,31 @@ ___
  
  > Video contect:
  
- > "BresicWhitney is a Sydney based real estate agency. And we are  transitioning towards more of an intergrated property services lifestyle group. We've seen quite dramatic changes in real estate industry. We've got new and emerging players, we've got changes and behaviour from buyers and from sellers. As a result, we've had a lot of change in the role of the tranditional real estate agency. BresicWhitney's ambition is to bring some honour back into the industry, we are looking at building trust again with buyers. As a result, we are looking at how we can add value and contribute to people who trying to sell. We decided to partener with ThoughtWorks, and the decision was to run a time boxed innovation lab."
+ > "BresicWhitney is a Sydney based real estate agency. And we are transitioning towards more of an intergrated property services lifestyle group. We've seen quite dramatic changes in real estate industry. We've got new and emerging players, we've got changes and behaviour from buyers and from sellers. As a result, we've had a lot of change in the role of the tranditional real estate agency. BresicWhitney's ambition is to bring some honour back into the industry, we are looking at building trust again with buyers. As a result, we are looking at how we can add value and contribute to people who trying to sell. We decided to partener with ThoughtWorks, and the decision was to run a time boxed innovation lab."
  
- > "We're here for a three week engagement and we dedicated the first week unserstand the buyer behaviours. We did that through contexual enquiry, some face to face interviews, open for expections and some phone interviews. We found buyers have two main pain points: one is price transparency around auctions, and second one is access to property reports. So we built an app in first eight days, and we were able to delivery guys reports and test their response. That's important, so we can refine and move on in the process in that subsequence two weeks. By embedding at Bresic Whitney we are able to build measure and learn far more quickly, so we can validate any product ideas before bring them to market."
+ Shannan Whitney (CEO, BresicWhitney): BresicWhitney是悉尼的一家房地产中介机构，目前我们正在向一家全功能房产生活服务集团公司转型。我们发现房地产这个行业发生着翻天覆地的变化：新的玩家不断浮现，买卖双方的行为持续变化。作为一家传统的房地产中介公司，我们也不得不改变了很多。BresicWhitney的愿景是与买家建立信任，重塑房地产行业的辉煌。为了达到这个目标，我们一直在寻找方法，怎样才能为潜在卖家做出贡献，带来价值。因此，我们决定和ThoughtWorks合作，而合作的产物就是举行一场定时的创新实验室活动。
  
- The new product is already demonstrated to us that the buyers are enjoying the process in buying much more. They're able to make faster decisions which is leading to quicker sales. This is offering great benefits to our sellers and we're also seeing great effeciencies in our role in the transation.
+ > "We're here for a three week engagement and we dedicated the first week understand the buyer behaviours. We did that through contextual enquiry, some face to face interviews, open for expectations and some phone interviews. We found buyers have two main pain points: one is price transparency around auctions, and second one is access to property reports. So we built an app in first eight days, and we were able to delivery guys reports and test their response. That's important, so we can refine and move on in the process in that subsequence two weeks. By embedding at BresicWhitney we are able to build measure and learn far more quickly, so we can validate any product ideas before bring them to market."
  
- "It's really easy to use the app to just download the strata reports contracts and floor plans so that I don't have to email the agents and take weeks to do that and I can make a decision on the spot whether or not I'm gonna proceed with the property and provide an offer."
+ Mike Biggs (Lead Consultant, Production Innovation, ThoughtWorks): 我们只有三周时间来完成任务，但是我们仍然决定花整整第一周的时间来了解买家行为。我们通过情景调查，面对面交流和一些电话访谈，开放地收集买家的想法。最后我们发现了买家的两个主要痛点：一是拍卖过程中的价格透明化，二是房产报告的获取。于是我们花了八天开发出了一款应用来给顾客传输显示房产报告并观察他们的反应。这一步很重要，因为它保证了我们能在接下来的两周里保持在正确的方向上不断推进。和BresicWhitney的紧密合作，让我们能了解行业标准，更快地学习，于是我们能在把任何产品创意带到市场上之前验证它们。
  
- "I think the biggest thing that I noticed was the speed and efficiency, they can just download it straight away instead of waiting for us to get back to them on Monday. I had a transaction recently, the information was available there pretty much from the time when the offer was made, they could download that information instantly and it was closed within 24 hours." 
+> "The new product is already demonstrated to us that the buyers are enjoying the process in buying much more. They're able to make faster decisions which is leading to quicker sales. This is offering great benefits to our sellers and we're also seeing great effeciencies in our role in the transation."
+
+Shannan Whitney (CEO, BresicWhitney): 这个新产品已经向我们展示了买家更喜欢新的购买流程。他们更快地做出购买决定就缩短了我们的销售周期。这对我们的卖家来说是巨大的收益，同时也极大地提高了我们的工作效率。
  
- "Oh yeah you want to be able to work in real time, I mean that's what today's  all about, being able to make quick decisions in a hot market, with the information all at hand. Normally some of that is emailed to you a few days later when the agent contacts you and says you're interested so like the contract of sale but definitely not the strata report and not as readily available as that in real time. So yeah it's good. "
+ > "It's really easy to use the app to just download the strata reports contracts and floor plans so that I don't have to email the agents and take weeks to do that and I can make a decision on the spot whether or not I'm gonna proceed with the property and provide an offer."
  
+ 房产买家: 使用这个应用来下载维护报告和平面图实在是太方便了。这样我就不用给中介公司发邮件，然后花上几周时间来做决定要不要买这套房产了。
  
+ > "I think the biggest thing that I noticed was the speed and efficiency, they can just download it straight away instead of waiting for us to get back to them on Monday. I had a transaction recently, the information was available there pretty much from the time when the offer was made, they could download that information instantly and it was closed within 24 hours." 
  
+ Matthew Carvalho (地区销售, BresicWhitney): 我认为最重要的变化是迅速和高效，顾客能直接下载所需的资料，而不用等着我们过完周末之后回来再给他们。我最近就做了一笔交易，房源信息一发布，相关资料也马上可以查阅，顾客就直接下载了文件，然后24小时内，这笔交易就完成了。
  
+ > "Oh yeah you want to be able to work in real time, I mean that's what today's all about, being able to make quick decisions in a hot market, with the information all at hand. Normally some of that is emailed to you a few days later when the agent contacts you and says you're interested so like the contract of sale but definitely not the strata report and not as readily available as that in real time. So yeah it's good. "
  
- > "The new product is already demonstrating tool of buyers are enjoying the process they buy much more. They are able to make faster decisions which is leading to quick sales. This is offering right benefit to us sellers. And we are also saying right inefficiency in ** in the transaction."
+ 房产买家: 当然啦，你得跟上节奏，我的意思是这就是现代的工作方式，用手中拥有的信息，在一个激烈的市场里快速地做出决定。一般来说，有些代理人会在几天之后给你发邮件，询问你对销售合同还感不感兴趣，但是绝对不会提供维护报告，就算有也不会像这样及时、方便。所以说，这应用很赞。
  
- > "Really esay to use the app to just download the ** contract for full plan. So I don't have to email the agency and take weeks to do that. I can make a decision on a **". Whether or not, I'm gona persuade the property and provide the offer.
- 
- > "I think the biggest thing that I know the system beat inefficiency. I can just download straightway instead of waiting for us get back for the moment monday. I did a the transaction recently, the information was about the pretty much from the time your offer is made, back home download the information instantly, and it is closed in 24 hours."
- 
- > "Ah yeah you won't be able to work in real time. I mean that's the, that's what today all about, been able to make quick decision is very hard market. And with the information all in the hand, normally ** send us a email to you a few days later when your agency cantact you and says your interests about the contract ** but definitely not strata report and not valuable as that in real time. That's good"
+ ___
  
 BresicWhitney is an Australian lifestyle property group founded in 2003. The company is now a multi-office brand connecting people and property within Sydney’s widespread inner-city basin.
 
